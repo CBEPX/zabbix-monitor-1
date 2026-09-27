@@ -13,8 +13,8 @@
   "dependencies": {},
   "devDependencies": {
     "async": "~0.9.0",
-    "dot": "~1.0.2",
-    "grunt": "~0.4.5",
+    "dot": "~1.1.3",
+    "grunt": "~1.6.3",
     "grunt-autoprefixer": "~1.0.1",
     "grunt-browserify": "~3.0.1",
     "grunt-concurrent": "~1.0.0",
@@ -37,7 +37,7 @@
     "grunt-usemin": "~2.4.0",
     "jshint-stylish": "~1.0.0",
     "load-grunt-tasks": "~0.6.0",
-    "moment": "~2.8.3",
+    "moment": "~2.31.0",
     "time-grunt": "~1.0.0"
   }
 }
